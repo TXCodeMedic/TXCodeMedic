@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="benny_typing_1.gif" >
 
-- 🔭 I’m currently working on a **Full Stack Admin Panel for a Tea Company in Vietnam**
+- 🔭 I’m currently working on a **Full Stack Admin Panel for a Tea Company using the MERN stack**
 
 - 👨‍💻 All of my projects are available at [https://txcodemedic.github.io/](https://txcodemedic.github.io/)
 
