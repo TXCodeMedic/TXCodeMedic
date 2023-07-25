@@ -2,8 +2,6 @@
 <h3 align="center">Full Stack Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="benny_typing_1.gif" >
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=txcodemedic&label=Profile%20views&color=0e75b6&style=flat" alt="txcodemedic" /> </p>
-
 - 🔭 I’m currently working on a **Full Stack Admin Panel for a Tea Business**
 
 - 👨‍💻 All of my projects are available at [https://txcodemedic.github.io/](https://txcodemedic.github.io/)
