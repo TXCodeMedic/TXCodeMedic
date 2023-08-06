@@ -1,4 +1,5 @@
-<h1 align="center">Hello World 👋, I'm Matthew Galvez</h1>
+<h1 align="center">Hello World 👋</h1>
+ <h1 align="center">I'm Matthew Galvez</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="benny_typing_1.gif" >
 
